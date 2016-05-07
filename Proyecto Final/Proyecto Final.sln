@@ -1,18 +1,14 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{FD84297F-97A0-6414-EEFE-615F9EA09F98}") = "Proyecto Final", "Assembly-UnityScript.unityproj", "{78FEBC7D-A262-0EAC-974F-22060A0D8AC3}"
-EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{78FEBC7D-A262-0EAC-974F-22060A0D8AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{78FEBC7D-A262-0EAC-974F-22060A0D8AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{78FEBC7D-A262-0EAC-974F-22060A0D8AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{78FEBC7D-A262-0EAC-974F-22060A0D8AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
