@@ -1,9 +1,7 @@
 ﻿#pragma strict
 
-import UnityEngine;
-import System.Collections;
 
-public var fVelocity :float;
+public var fVelocity :float = 5.0f;
 
 private var rThisRigidbody : Rigidbody2D;
 private var fAxis : float;
