@@ -1,0 +1,1330 @@
+fileFormatVersion: 2
+guid: 8fc4cfb376987ad42a9b91dd8bbf8238
+timeCreated: 1462752192
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spr_mediumWall
+    21300002: spr_mediumWall2
+    21300004: spr_door1
+    21300006: spr_door2
+    21300008: spr_door3
+    21300010: spr_door4
+    21300012: spr_wall3
+    21300014: spr_wall4
+    21300016: spr_door5
+    21300018: spr_door6
+    21300020: spr_door7
+    21300022: spr_door8
+    21300024: spr_mediumRightDoor
+    21300026: spr_mediumRightDoor2
+    21300028: spr_mediumRightDoor3
+    21300030: spr_mediumRightDoor4
+    21300032: spr_smallRightWall
+    21300034: spr_smallRightWall2
+    21300036: spr_mediumLeftDoor
+    21300038: spr_mediumLeftDoor2
+    21300040: spr_mediumLeftDoor3
+    21300042: spr_mediumLeftDoor4
+    21300044: spr_smallLeftWall
+    21300046: spr_smallLeftWall2
+    21300048: spr_rock1
+    21300050: spr_rock2
+    21300052: spr_rock3
+    21300054: spr_barrels1
+    21300056: spr_barrels2
+    21300058: spr_box1
+    21300060: spr_box2
+    21300062: spr_chest1
+    21300064: spr_chest2
+    21300066: spr_chest3
+    21300068: spr_outsideCorner
+    21300070: spr_outsideCorner2
+    21300072: spr_outsideCorner3
+    21300074: spr_outsideCorner4
+    21300076: spr_insideCorner
+    21300078: spr_insideCorner2
+    21300080: spr_insideCorner3
+    21300082: spr_insideCorner4
+    21300084: spr_leftArch
+    21300086: spr_rightArch
+    21300088: spr_bottomArch
+    21300090: spr_upperArch
+    21300092: spr_outsideHole3
+    21300094: spr_floor
+    21300096: spr_floor2
+    21300098: spr_floor3
+    21300100: spr_floor4
+    21300102: spr_floor5
+    21300104: spr_floor6
+    21300106: spr_floor7
+    21300108: spr_floor8
+    21300110: spr_floor9
+    21300112: spr_floor10
+    21300114: spr_floor11
+    21300116: spr_floor12
+    21300118: spr_floor13
+    21300120: spr_floor14
+    21300122: spr_floor15
+    21300124: spr_floor16
+    21300126: sppr_floor17
+    21300128: spr_floor18
+    21300130: spr_floor19
+    21300132: spr_floor20
+    21300134: spr_floor21
+    21300136: spr_floor22
+    21300138: spr_floor23
+    21300140: spr_floor24
+    21300142: spr_floor25
+    21300144: spr_floor26
+    21300146: spr_floor27
+    21300148: spr_floor28
+    21300150: spr_insideHole
+    21300152: spr_insideHole2
+    21300154: spr_insideHole3
+    21300156: spr_insideHole4
+    21300158: spr_outsideHole
+    21300160: spr_outsideHole2
+    21300162: spr_outsideHole4
+    21300164: spr_outsideHole5
+    21300166: spr_outsideHole6
+    21300168: spr_outsideHole7
+    21300170: spr_outsideHole8
+    21300172: spr_outsideHole9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spr_mediumWall
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 16}
+        - {x: -48, y: -14}
+        - {x: 48, y: -14}
+        - {x: 48, y: 16}
+    - name: spr_mediumWall2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 16}
+        - {x: -48, y: -14}
+        - {x: 22, y: -15}
+        - {x: 44, y: -15}
+        - {x: 48, y: -14}
+        - {x: 48, y: 16}
+    - name: spr_door1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 16}
+        - {x: -48, y: -14}
+        - {x: -41, y: -16}
+        - {x: 41, y: -16}
+        - {x: 48, y: -14}
+        - {x: 48, y: 16}
+    - name: spr_door2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 16}
+        - {x: -48, y: -16}
+        - {x: 42, y: -16}
+        - {x: 48, y: -14}
+        - {x: 48, y: 16}
+    - name: spr_door3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 16}
+        - {x: -48, y: -16}
+        - {x: 42, y: -16}
+        - {x: 48, y: -14}
+        - {x: 48, y: 16}
+    - name: spr_door4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 16}
+        - {x: -48, y: -16}
+        - {x: 42, y: -16}
+        - {x: 48, y: -14}
+        - {x: 48, y: 16}
+    - name: spr_wall3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: -16}
+        - {x: 48, y: -16}
+        - {x: 48, y: 14}
+        - {x: -48, y: 14}
+    - name: spr_wall4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 15}
+        - {x: -48, y: -16}
+        - {x: 48, y: -16}
+        - {x: 48, y: 15}
+    - name: spr_door5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 16}
+        - {x: -48, y: 14}
+        - {x: -48, y: -16}
+        - {x: 48, y: -16}
+        - {x: 48, y: 14}
+        - {x: 41, y: 16}
+    - name: spr_door6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 16}
+        - {x: -48, y: -16}
+        - {x: 48, y: -16}
+        - {x: 48, y: 14}
+        - {x: 42, y: 16}
+    - name: spr_door7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 16}
+        - {x: -48, y: 14}
+        - {x: -48, y: -16}
+        - {x: 48, y: -16}
+        - {x: 48, y: 15}
+        - {x: 28, y: 16}
+    - name: spr_door8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 16}
+        - {x: -48, y: -16}
+        - {x: 48, y: -16}
+        - {x: 48, y: 14}
+        - {x: 42, y: 16}
+    - name: spr_mediumRightDoor
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 64}
+        - {x: -16, y: -60}
+        - {x: -14, y: -64}
+        - {x: 16, y: -64}
+        - {x: 16, y: 64}
+    - name: spr_mediumRightDoor2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 64}
+        - {x: -16, y: 50}
+        - {x: -16, y: -64}
+        - {x: 16, y: -64}
+        - {x: 16, y: 64}
+    - name: spr_mediumRightDoor3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 64}
+        - {x: -16, y: 41}
+        - {x: -16, y: -64}
+        - {x: 16, y: -64}
+        - {x: 16, y: 64}
+    - name: spr_mediumRightDoor4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 64}
+        - {x: -16, y: 41}
+        - {x: -16, y: -64}
+        - {x: 16, y: -64}
+        - {x: 16, y: 64}
+    - name: spr_smallRightWall
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: spr_smallRightWall2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -15, y: 10}
+        - {x: -15, y: -12}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: spr_mediumLeftDoor
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 64}
+        - {x: -16, y: -64}
+        - {x: 14, y: -64}
+        - {x: 16, y: -60}
+        - {x: 16, y: 64}
+    - name: spr_mediumLeftDoor2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 64}
+        - {x: -16, y: -64}
+        - {x: 15, y: -64}
+        - {x: 16, y: -43}
+        - {x: 16, y: 38}
+        - {x: 14, y: 64}
+    - name: spr_mediumLeftDoor3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 64}
+        - {x: -16, y: -64}
+        - {x: 16, y: -64}
+        - {x: 16, y: 48}
+        - {x: 14, y: 64}
+    - name: spr_mediumLeftDoor4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 64}
+        - {x: -16, y: -64}
+        - {x: 16, y: -64}
+        - {x: 16, y: 48}
+        - {x: 14, y: 64}
+    - name: spr_smallLeftWall
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -16}
+        - {x: 14, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+    - name: spr_smallLeftWall2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 14}
+        - {x: 14, y: 16}
+    - name: spr_rock1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -12}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: spr_rock2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 10}
+        - {x: -10, y: 8}
+        - {x: -10, y: -7}
+        - {x: -9, y: -10}
+        - {x: 10, y: -10}
+        - {x: 10, y: 6}
+        - {x: 7, y: 10}
+    - name: spr_rock3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 10}
+        - {x: -3, y: 10}
+        - {x: -10, y: 4}
+        - {x: -10, y: -6}
+        - {x: -4, y: -11}
+        - {x: 5, y: -11}
+        - {x: 10, y: -8}
+        - {x: 11, y: -6}
+        - {x: 11, y: 2}
+    - name: spr_barrels1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -13}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 9}
+        - {x: 11, y: 16}
+    - name: spr_barrels2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 13}
+        - {x: -11, y: 9}
+        - {x: -11, y: -8}
+        - {x: -6, y: -11}
+        - {x: 9, y: -11}
+        - {x: 10, y: -10}
+        - {x: 10, y: 12}
+        - {x: 6, y: 13}
+    - name: spr_box1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 12}
+        - {x: -10, y: 10}
+        - {x: -10, y: -8}
+        - {x: -8, y: -12}
+        - {x: 11, y: -12}
+        - {x: 11, y: 12}
+    - name: spr_box2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 9}
+        - {x: 8, y: 16}
+    - name: spr_chest1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 15}
+        - {x: -15, y: 13}
+        - {x: -15, y: -11}
+        - {x: -12, y: -14}
+        - {x: 14, y: -14}
+        - {x: 16, y: -12}
+        - {x: 16, y: 13}
+        - {x: 14, y: 15}
+    - name: spr_chest2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 15}
+        - {x: -16, y: 14}
+        - {x: -16, y: -10}
+        - {x: -13, y: -15}
+        - {x: 14, y: -15}
+        - {x: 16, y: -13}
+        - {x: 16, y: 15}
+    - name: spr_chest3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 15}
+        - {x: -16, y: 14}
+        - {x: -16, y: -10}
+        - {x: -13, y: -15}
+        - {x: 14, y: -15}
+        - {x: 16, y: -13}
+        - {x: 16, y: 15}
+    - name: spr_outsideCorner
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 100
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_outsideCorner2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 100
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_outsideCorner3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 128
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_outsideCorner4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_insideCorner
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 14, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 16}
+    - name: spr_insideCorner2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -14}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: spr_insideCorner3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 14}
+        - {x: 14, y: 16}
+    - name: spr_insideCorner4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: spr_leftArch
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -16}
+        - {x: 4, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+    - name: spr_rightArch
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -4, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: spr_bottomArch
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 4}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 4}
+    - name: spr_upperArch
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -4}
+        - {x: -13, y: -3}
+        - {x: 4, y: -4}
+        - {x: 16, y: -4}
+        - {x: 16, y: 16}
+    - name: spr_outsideHole3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_floor
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_floor2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_floor3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_floor4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_floor5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_floor6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_floor7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_floor8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_floor9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_floor10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_floor11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_floor12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_floor13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_floor14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_floor15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_floor16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: sppr_floor17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_floor18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_floor19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_floor20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_floor21
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_floor22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_floor23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_floor24
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_floor25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_floor26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_floor27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_floor28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_insideHole
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_insideHole2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_insideHole3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_insideHole4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_outsideHole
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_outsideHole2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_outsideHole4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_outsideHole5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_outsideHole6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_outsideHole7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_outsideHole8
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: spr_outsideHole9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
