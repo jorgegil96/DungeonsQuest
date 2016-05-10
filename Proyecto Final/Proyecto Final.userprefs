@@ -1,9 +1,9 @@
-﻿<Properties StartupItem="Assembly-UnityScript.unityproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerController.js">
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PuzzleOrden1.js">
     <Files>
-      <File FileName="Assets\Scripts\LoadLevel.js" Line="6" Column="14" />
-      <File FileName="Assets\Scripts\PlayerController.js" Line="5" Column="1" />
+      <File FileName="Assets/Scripts/PuzzleOrden.js" Line="10" Column="38" />
+      <File FileName="Assets/Scripts/PuzzleOrden1.js" Line="41" Column="14" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
